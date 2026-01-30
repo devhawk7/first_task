@@ -2,4 +2,4 @@ services:
   frontend:
     build:
       context: .
-      dockerfile: docker/Dockerfile
+      dockerfile: Dockerfile
